@@ -1,0 +1,6 @@
+https://gist.github.com/enigmaticape/4254054
+https://rosettacode.org/wiki/Vigen%C3%A8re_cipher/Cryptanalysis#C
+https://rosettacode.org/wiki/Vigen%C3%A8re_cipher/Cryptanalysis#Racket
+https://www.geeksforgeeks.org/python-frequency-of-each-character-in-string/
+https://www.rosettacode.org/wiki/Letter_frequency#C.2B.2Bs
+https://www.rosettacode.org/wiki/Letter_frequency#C.2B.2B
